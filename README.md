@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=500&lines=Welcome+to+Audite's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F7DB&center=true&multiline=true&random=false&width=850&height=100&lines=Hi%2C+fellow+code+explorer!+%F0%9F%8C%9F;Ready+for+a+tech+treasure+hunt+in+my+repos%3F+%F0%9F%97%BA%EF%B8%8F%F0%9F%92%BB;Grab+your+gear%2C+let's+code+some+wonders+together!+%F0%9F%9B%A0%EF%B8%8F%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="50%" alt="Coding Animation">
