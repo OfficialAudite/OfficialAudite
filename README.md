@@ -58,10 +58,8 @@ Hey there! I'm Audite—just a soul drawn to the endless puzzle that is coding. 
 I get a kick out of making stuff—applications, websites, digital doodads—that makes someone's day a bit brighter. But it's not all screens and keyboards. When the code compiles and the tests pass, you might find me at friends place or spending time with family. Life's too short to stay static, right?
 
 ## What I'm Tinkering With Now 🔭
-- **Sourceplugin.com:** This is the go-to hub for the source engine gaming community to swap cool ideas, nifty snippets, and game-changing plugins. It's all about giving gamers the tools to tweak their experience.
-- **Screeps Automation:** I'm in the throes of developing a bot for [screeps.com](https://screeps.com) that isn't just smart—it's got a self-preservation streak. Watch it strategize, survive, and thrive autonomously.
+- **Swarmas.lt:** A Lithuanian CS2 porject for SWARM game mode. Currently working on Jailbreak as main developer. Team is known Lithuanian players and coders such as Prefix, Hotice and me (Kalade).
 - **Language Safari:** I'm on a quest to find the most enjoyable programming language. It's a mix of hobby and mad science—each language has its own charm and challenges.
-- **Cernode.com:** Think of it as a cozy nook for your databases to live rent-free. Still ironing out the VPS details, but we're getting there—exciting times ahead!
 
 ## Let's Connect! 📬
 Got a cool idea? Want to collaborate? Or just in the mood to chat about tech? Drop me a line!
