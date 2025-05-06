@@ -58,7 +58,7 @@ Hey there! I'm Audite—just a soul drawn to the endless puzzle that is coding. 
 I get a kick out of making stuff—applications, websites, digital doodads—that makes someone's day a bit brighter. But it's not all screens and keyboards. When the code compiles and the tests pass, you might find me at friends place or spending time with family. Life's too short to stay static, right?
 
 ## What I'm Tinkering With Now 🔭
-- **Swarmas.lt:** A Lithuanian CS2 porject for SWARM game mode. Currently working on Jailbreak as main developer. Team is known Lithuanian players and coders such as Prefix, Hotice and me (Kalade).
+- **NewbieLand:** A friendly Screeps community built for newcomers. We run a public server with a more relaxed environment, perfect for learning the ropes.
 - **Language Safari:** I'm on a quest to find the most enjoyable programming language. It's a mix of hobby and mad science—each language has its own charm and challenges.
 
 ## Let's Connect! 📬
